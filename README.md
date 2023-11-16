@@ -15,7 +15,6 @@ I love new concepts
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=frkyscience&theme=kacho_ga&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=frkyscience&theme=kacho_ga&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frkyscience&theme=kacho_ga&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&amp;langs_count=10&amp;title_color=f97316&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages">
 
 ### ✍️ Random Dev Quote
