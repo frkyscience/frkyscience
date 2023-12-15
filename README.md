@@ -7,7 +7,7 @@ Mixed front end developer
 
 Ik hou van nieuwe conepten
 * 🌍  I'm based in Holland
-* 🧠  I'm learning New Frameworks and advanced Javascript ,HTML , CSS , Python and trying to create a fullstack
+* 🧠  I'm learning New Frameworks and advanced Javascript ,HTML , CSS , Python and trying to create a fullstack enviroment | Most recent thing I have learned are all the CSS frameworks : Tailwind , Bootstrap , Bulma , Foundation.
 * 🤝  I'm open to collaborating on Web3 based projects
 # 💻 Tech Stack:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&amp;langs_count=10&amp;title_color=f97316&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages">
