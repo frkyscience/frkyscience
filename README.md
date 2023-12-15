@@ -5,8 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mixed front end developer
 ------------------------
 
-I love new concepts
-
+Ik hou van nieuwe conepten
 * 🌍  I'm based in Holland
 * 🧠  I'm learning New Frameworks and advanced Javascript ,HTML , CSS , Python and trying to create a fullstack
 * 🤝  I'm open to collaborating on Web3 based projects
