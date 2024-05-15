@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi My name is Jesse Bogaart
+Hi 👋  My name is Jesse Bogaart
 =====================================================================================================================================
 
 Fullstack developer
