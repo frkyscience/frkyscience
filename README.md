@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋  My name is Jesse Bogaart
+Hi   My name is Jesse Bogaart 👋
 =====================================================================================================================================
 
 Fullstack developer
@@ -8,6 +8,7 @@ Fullstack developer
 * 🌍  I'm based in Holland
 * 🧠  I'm Currently earning Tensorflow and Python | Most recent thing I have learned is Scraping data with PHP wuth cURL
 * 🤝  I'm open to collaborating on Web3 based projects
+------------------------
 
 
 ### ✍️ Random Dev Quote
