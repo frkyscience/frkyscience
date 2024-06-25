@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/vLlpbDafjgHystuJ0a" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/webfx-code-interactive-code-a-yoda-vLlpbDafjgHystuJ0a">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <br />
 =====================================================================================================================================
 
