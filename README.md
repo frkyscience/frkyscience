@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi   My name is Jesse Bogaart 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Jesse. I do Back end software development" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 =====================================================================================================================================
 
 Fullstack developer
