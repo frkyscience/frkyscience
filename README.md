@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Jesse. I do Back end software development" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><img width="80%" alt="Hello, I'm Jesse. I do Back end software development"></a></p>
 
 <br />
 =====================================================================================================================================
