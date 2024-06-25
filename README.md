@@ -1,22 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<br />
-==================================================================================
-My name is Jesse Bogaart
-<div id="badges">
-    <a href="(https://www.linkedin.com/in/jesse-bogaart/)">
 
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges"><img width="1834" alt="Frame" src="https://github.com/frkyscience/frkyscience/assets/84499820/ee1afaac-3dab-4b45-a952-1ee8f2bf5876">
 </div>
-Fullstack developer
-------------------------
+==================================================================================<br />
+
 
 * 🌍  I'm based in Holland
 * 🧠  I'm Currently learning tkinter
 * ⚙️  I'm building Subsnake 
 * 🤝  I'm open to collaborating on Web3 based projects
-------------------------
+  
+==================================================================================<br />
 
 
 ### ✍️ Random Dev Quote
