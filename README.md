@@ -4,10 +4,10 @@
 ==================================================================================<br />
 
 
-* 🌍  I'm based in Holland
-* 🧠  I'm Currently learning tkinter
-* ⚙️  I'm building Subsnake 
-* 🤝  I'm open to collaborating on Web3 based projects
+* 🌍  I'm currently based in |  Holland |
+* 🧠  I'm Currently learning | tkinter |
+* ⚙️  I'm building Subsnake | A security Tool | 
+* 🤝  I'm open to collaborating on | Web3 based projects|
   
 ==================================================================================<br />
 
